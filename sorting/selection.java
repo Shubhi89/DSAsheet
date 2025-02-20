@@ -10,7 +10,7 @@ public class selection {
             // swap
             int temp = arr[min];
             arr[min] = arr[i];
-            arr[i] = temp;
+            arr[i] = temp; 
         }
     }
     public static void main(String[] args) {

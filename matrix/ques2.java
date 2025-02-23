@@ -13,3 +13,4 @@ public class ques2 {
         System.out.println(sum(matrix));
     }
 }
+ 

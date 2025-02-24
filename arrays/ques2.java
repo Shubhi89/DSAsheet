@@ -1,3 +1,5 @@
+package DSAsheet.arrays;
+
 public class ques2 {
     public static int findTarget(int arr[] , int target) {
         int n = arr.length;

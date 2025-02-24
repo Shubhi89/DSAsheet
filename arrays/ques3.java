@@ -1,3 +1,5 @@
+package DSAsheet.arrays;
+
 public class ques3 {
     public static int maxProfit(int prices[]) {
         int minPrice = prices[0];

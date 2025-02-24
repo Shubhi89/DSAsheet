@@ -1,3 +1,5 @@
+package DSAsheet.arrays;
+
 public class ques4 {
     public static int trappedWater(int arr[]) {
         int n = arr.length;

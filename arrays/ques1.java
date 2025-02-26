@@ -1,3 +1,5 @@
+package DSAsheet.arrays;
+
 import java.util.*;
 
 public class ques1 {
